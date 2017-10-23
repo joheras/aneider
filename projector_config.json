@@ -2,6 +2,10 @@
   "embeddings": [
     {
       "tensorName": "My tensor",
+"tensorShape": [
+        10000,
+        1001
+      ],
       "tensorPath": "https://raw.githubusercontent.com/joheras/aneider/master/in-fact-data.tsv",
       "metadataPath": "https://raw.githubusercontent.com/joheras/aneider/master/infact.tsv"
     }
